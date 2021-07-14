@@ -24,5 +24,5 @@
 > Đây sẽ là thư mục chính chứa Lab guide.
 
 2. Sau khi cài đặt các công cụ ở trên, hãy đi vào thư mục ```Number_LabName``` và mở nó trong IDE đã được cài đặt.
-3. Dùng cửa sổ lệnh và chạy lệnh ```hugo server``` để khởi chạy phần web của hướng dẫn này. Dùng trình duyệt truy cập vào http:\\\\localhost:1313 để xem kết quả.
+3. Dùng cửa sổ lệnh và chạy lệnh ```hugo server``` bên trong thư mục ```Number_LabName``` để khởi chạy phần web của hướng dẫn này. Dùng trình duyệt truy cập vào http:\\\\localhost:1313 để xem kết quả.
 4. Xem song song **phần nội dung markdown bằng IDE** và **phần hiển thị kết quả trên Web** để hiểu cách viết Lab guide.
