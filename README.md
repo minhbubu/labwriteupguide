@@ -1,10 +1,3 @@
-+++
-title = "Cách viết một Lab Guide"
-date = 2020
-weight = 1
-chapter = false
-+++
-
 # Cách viết một Lab Guide
 
 Đây là cách cơ bản để viết một Lab Guide sử dụng Markdown.
